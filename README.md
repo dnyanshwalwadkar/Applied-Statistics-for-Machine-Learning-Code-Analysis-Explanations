@@ -1,4 +1,4 @@
-# Complete-Statistics-with-Real-Life-Dataset
+# Complete Statistics For Machine Learning
 
 Machine learning is the latest in a long line of attempts to distill human
 knowledge and reasoning into a form that is suitable for constructing machines and engineering automated systems. As machine learning becomes
