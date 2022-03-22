@@ -1,5 +1,7 @@
 # Complete-Statistics-with-Real-Life-Dataset
 
+![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/Cover.png)
+
 ## Why Statistics for Machine Leraning?
 From exploratory data analysis to designing hypothesis testing experiments, statistics play an integral role in solving problems across all major industries and domains.
 Statistics helps answer questions like...
