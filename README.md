@@ -133,3 +133,16 @@ Probability Sampling: In probability sampling, every element of the population h
 * Non-Probability Sampling: In non-probability sampling, all elements do not have an equal chance of being selected. Consequently, there is a significant risk of ending up with a non-representative sample which does not produce generalizable results
 
 ![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/Infernece2.png)
+
+# Central Limit Theorem:
+The Central Limit Theorem states that the sampling distribution of the sample means approaches a normal distribution as the sample size gets larger.
+The sample means will converge to a normal distribution regardless of the shape of the population. That is, the population can be positively or negatively skewed, normal or non-normal.
+
+CLT states that — as the sample size tends to infinity, the shape of the distribution resembles a bell shape (normal distribution). The center of this distribution of the sample means becomes very close to the population mean — which is essentially the law of large numbers.
+So, how is the Central Limit Theorem used?
+
+It enables us to test the hypothesis of whether our sample represents a population distinct from the known population. We can take a mean from a sample and compare it with the sampling distribution to estimate the probability whether the sample comes from the known population.
+
+# Confiedence Interval:
+Confidence Interval is a type of estimate computed from the statistics of the observed data which gives a range of values that’s likely to contain a population parameter with a particular level of confidence.
+A confidence interval for the mean is a range of values between which the population mean possibly lies.
