@@ -79,7 +79,31 @@ The data is not symmetrical (i.e) it is skewed towards one side.
 
 In a Positively skewed distribution, the data values are clustered around the left side of the distribution and the right side is longer.
 The mean and median will be greater than the mode in the positive skew.
+
 2. Negatively skewed
 
 In a Negatively skewed distribution, the data values are clustered around the right side of the distribution and the left side is longer.
 The mean and median will be less than the mode.
+
+3. Kurtosis
+Kurtosis is the measure of describing the distribution of data.
+This data is distributed in different ways. They are:
+* Platykurtic
+* Mesokurtic
+* Leptokurtic
+ Platykurtic: The platykurtic shows a distribution with flat tails. Here the data is distributed faltly . The flat tails indicated the small outliers in the distribution.
+
+Mesokurtic: In Mesokurtic, the data is widely distributed. It is normally distributed and it also matches normal distribution.
+
+Leptokurtic: In leptokurtic, the data is very closely distributed. The height of the peak is greater than width of the peak.
+
+![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/kurtosis.jpg)
+
+# Inter Quartile Range(IQR)
+The interquartile range tells you the spread of the middle half of your distribution.
+Quartiles segment any distribution that’s ordered from low to high into four equal parts. The interquartile range (IQR) contains the second and third quartiles, or the middle half of your data set.
+--> How to calculate IQR?
+
+![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/boxplot.png)
+
+
