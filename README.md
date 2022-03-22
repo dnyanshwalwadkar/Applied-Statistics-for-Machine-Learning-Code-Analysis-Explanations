@@ -102,8 +102,34 @@ Leptokurtic: In leptokurtic, the data is very closely distributed. The height of
 # Inter Quartile Range(IQR)
 The interquartile range tells you the spread of the middle half of your distribution.
 Quartiles segment any distribution that’s ordered from low to high into four equal parts. The interquartile range (IQR) contains the second and third quartiles, or the middle half of your data set.
---> How to calculate IQR?
+ 
+## Range 
+The range of data is the difference between the maximum and minimum element in the dataset.
+
+## Mean Absolute Deviation(MAD)
+The mean absolute deviation of a dataset is the average distance between each data point and the mean. It gives us an idea about the variability in a dataset.
+Mean absolute deviation helps us get a sense of how "spread out" the values in a data set are.
+
 
 ![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/boxplot.png)
 
 
+# Inferential Statistics
+
+
+Inferential Statistics - offers methods to study experiments done on small samples of data and chalk out the inferences to the entire population (entire domain).
+1.  Population Vs Samples:
+In statistics, the population is a set of all elements or items that you’re interested in. Populations are often vast, which makes them inappropriate for collecting and analyzing data. That’s why statisticians usually try to make some conclusions about a population by choosing and examining a representative subset of that population.
+
+This subset of a population is called a sample. Ideally, the sample should preserve the essential statistical features of the population to a satisfactory extent. That way, you’ll be able to use the sample to glean conclusions about the population.
+
+![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/Infernce.png)
+
+2. Data Sampling:
+Data sampling is a statistical analysis technique used to select, manipulate and analyze a representative subset of data points to identify patterns and trends in the larger data set being examined.
+
+* Different types of sampling technique:
+Probability Sampling: In probability sampling, every element of the population has an equal chance of being selected. Probability sampling gives us the best chance to create a sample that is truly representative of the population
+* Non-Probability Sampling: In non-probability sampling, all elements do not have an equal chance of being selected. Consequently, there is a significant risk of ending up with a non-representative sample which does not produce generalizable results
+
+![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/Infernece2.png)
