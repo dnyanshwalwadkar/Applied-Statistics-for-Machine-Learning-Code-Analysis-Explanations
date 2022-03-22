@@ -146,3 +146,35 @@ It enables us to test the hypothesis of whether our sample represents a populati
 # Confiedence Interval:
 Confidence Interval is a type of estimate computed from the statistics of the observed data which gives a range of values that’s likely to contain a population parameter with a particular level of confidence.
 A confidence interval for the mean is a range of values between which the population mean possibly lies.
+
+# Hypothesis Testing:
+
+* Hypothesis testing is a part of statistical analysis, where we test the assumptions made regarding a population parameter.
+* It is generally used when we were to compare:
+1. a single group with an external standard
+2. two or more groups with each other
+
+* The two types of hypothesis testing are null hypothesis and alternate hypothesis.
+1. Null hypothesis is the initial assumption about an event (also referred to as the ground truth).
+2. Alternate hypothesis is an assumption that counters the initial assumption.
+
+* To carry out hypothesis testing, we will refer to the null hypothesis (initial assumption) as the H0 hypothesis and the alternate hypothesis (counter assumption) as the H1 hypothesis.
+* The follow-up action is to collect the available data samples to support the null hypothesis.
+* We should collect data pertaining to the hypothesis and analyze it to decide if H0 can be accepted or rejected.
+
+While doing that, there is a likelihood of the following events happening:
+
+* The ground truth (H0) is true, so H0 is accepted.
+* The ground truth (H0) is not true, so H0 is rejected and H1 is accepted.
+
+The above two cases are the desired possibilities. It’s either our null hypothesis was right and adopted or our null hypothesis was wrong and rejected.
+
+The remaining possibilities are outline below.
+1. Null hypothesis (H0) is true but we reject it.
+
+2. Null hypothesis (H0) is not true, but we did not reject it.
+
+# Z-score:
+* Z-score is a statistical measure that tells you how far is a data point from the rest of the dataset.
+* In a more technical term, Z-score tells how many standard deviations away a given observation is from the mean.
+* If a z-score is equal to 0, it is on the mean. A positive z-score indicates the raw score is higher than the mean average.
