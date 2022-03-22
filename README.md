@@ -178,3 +178,40 @@ The remaining possibilities are outline below.
 * Z-score is a statistical measure that tells you how far is a data point from the rest of the dataset.
 * In a more technical term, Z-score tells how many standard deviations away a given observation is from the mean.
 * If a z-score is equal to 0, it is on the mean. A positive z-score indicates the raw score is higher than the mean average.
+
+
+# P Value:
+* A p-value explains the likelihood of an assumption being true based on the null hypothesis. It is an abbreviation for probability value.
+* Technically, the only way we can accept or reject our null hypothesis is after determining our p-value.
+* The smaller our p-value is, the more delicate it is to trust our null hypothesis.
+the p-value is usually within the range of 0 and 1.
+
+Method 1: Left tailed or Lower tailed test:
+
+* In distribution, the lower tail includes the lowest values. Because the lowest values on a number line are on the left, the lowest group of numbers will always show on the left when graphing any distribution on a Coordinate plane. z- value is generally negative for the left tailed test.
+
+Method 2: Right tailed or upper tailed test
+
+* A right-tailed test or upper test is the inequality that is pointing to the right.
+
+Method 3: Two-tailed tests
+
+
+
+* In statistics, a two-tailed test is a procedure that uses a two-sided critical area of a distribution to determine if a sample is larger than or less than a given range of values.
+
+# T - Tests:
+
+A t-test is a statistical test that is used to compare the means of two groups. It is often used in hypothesis testing to determine whether a process or treatment actually has an effect on the population of interest, or whether two groups are different from one another.
+
+
+# ANOVA:
+
+ANOVA is a word coined from ‘Analysis of Variance’. It is a statistical concept that shows the differences between the means of more than two independent groups, using variance analysis on samples from those groups.
+It is used for checking the contrast between three or more samples with one test. Especially when the categorical class has over two categories.
+During ANOVA testing, the hypothesis is:
+   1.H0: When all samples’ means are the same.
+   2.H1: When one or more samples are very much different.
+1. One way ANOVA test :
+
+This is employed to determine the effect of a variable on one or two other variables by comparing their means. Using the example we will check if weight_kg, has an effect on body fat_% and sit-ups counts using one-way ANOVA test
