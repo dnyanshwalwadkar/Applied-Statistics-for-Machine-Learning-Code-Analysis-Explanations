@@ -1,5 +1,19 @@
 # Complete-Statistics-with-Real-Life-Dataset
 
+Machine learning is the latest in a long line of attempts to distill human
+knowledge and reasoning into a form that is suitable for constructing machines and engineering automated systems. As machine learning becomes
+more ubiquitous and its software packages become easier to use, it is natural and desirable that the low-level technical details are abstracted away
+and hidden from the practitioner. However, this brings with it the danger
+that a practitioner becomes unaware of the design decisions and, hence,
+the limits of machine learning algorithms.
+
+The enthusiastic practitioner who is interested to learn more about the
+magic behind successful machine learning algorithms currently faces a
+daunting set of pre-requisite knowledge:
+* Programming languages and data analysis tools
+* Large-scale computation and the associated frameworks
+* Mathematics and statistics and how machine learning builds on it
+
 ![alt text](https://github.com/dnyanshwalwadkar/Applied-Statistics-for-Machine-Learning-Code-Analysis-Explanations/blob/main/Cover.png)
 
 ## Why Statistics for Machine Leraning?
